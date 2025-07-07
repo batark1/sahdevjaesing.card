@@ -1,3 +1,17 @@
+@font-face {
+  font-family: "Eleanora-Regular";
+  src: url("/fonts/eleanora.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "EckmannpsychVariable-None";
+  src: url("/fonts/eckmannpsych-variable.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Malegroth";
+  src: url("/fonts/malegroth-demo.otf") format("opentype");
+}
 .home-container10 {
   width: 100%;
   height: auto;
