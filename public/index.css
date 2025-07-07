@@ -38,7 +38,7 @@
   padding-bottom: var(--dl-layout-space-tripleunit);
   background-size: cover;
   justify-content: space-between;
-  background-image: url("public/angel%20header-1500w.jpeg");
+  background-image: url("/angel%20header-1500w.jpeg");
 }
  
 .home-container11 {
@@ -765,7 +765,7 @@
     position: relative;
     margin-bottom: 0px;
     background-size: cover;
-    background-image: url("public/angel%20header-1500w.jpeg");
+    background-image: url("/angel%20header-1500w.jpeg");
   }
   .home-heading-container1 {
     width: 100%;
@@ -834,7 +834,7 @@
     flex-direction: column;
     background-size: cover;
     justify-content: center;
-    background-image: url("public/angel%20header-1500w.jpeg");
+    background-image: url("/angel%20header-1500w.jpeg");
   }
   .home-text10 {
     left: 11px;
